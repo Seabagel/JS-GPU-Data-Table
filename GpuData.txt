@@ -1,0 +1,168 @@
+Name 
+Score 
+GPU 
+Base/Boost 
+Memory 
+Power 
+Buy 
+ Nvidia Titan RTX 
+100 
+TU102 
+1350/1770MHz 
+24GB GDDR6 
+280W 
+$2,499.99 Amazon 
+ Nvidia GeForce RTX 2080 Ti 
+98.4 
+TU102 
+1350/1635MHz 
+11GB GDDR6 
+260W 
+$1,429 Amazon 
+ Nvidia GeForce RTX 2080 
+96.1 
+TU104 
+1515/1800MHz 
+8GB GDDR6 
+225W 
+$799 Nvidia 
+ Nvidia Titan Xp 
+95.7 
+GP102 
+1405/1480MHz 
+12GB GDDR5X 
+250W 
+$1200 Nvidia 
+ Nvidia GeForce GTX 1080 Ti 
+95.7 
+GP102 
+1480/1582MHz 
+11GB GDDR5X 
+250W 
+$1,490 Amazon 
+AMD Radeon VII 
+92.4 
+Vega 20 
+1400/1750MHz 
+16GB HBM2 
+300W 
+$699.99 Newegg 
+ Nvidia GeForce RTX 2070 
+87.2 
+TU106 
+1410/1710MHz 
+8GB GDDR6 
+185W 
+$763.98 Amazon 
+AMD Radeon RX Vega 64 
+84.4 
+Vega 10 
+1274/1546MHz 
+8GB HBM2 
+180W 
+$587.53 Newegg 
+ Nvidia  GeForce GTX 1080 
+84.3 
+GP104 
+1607/1733MHz 
+8GB GDDR5X 
+295W 
+$860 Amazon 
+ Nvidia GeForce GTX 1070 Ti 
+78.5 
+GP104 
+1607/1683MHz 
+8GB GDDR5 
+180W 
+$597.99 Amazon 
+ Nvidia GeForce RTX 2060 
+77.5 
+TU106 
+1365/1680MHz 
+6GB GDDR6 
+160W 
+$400.24 Newegg 
+AMD Radeon RX Vega 56 
+76.7 
+Vega 10 
+1156/1471MHz 
+8GB HBM2 
+210W 
+$558.99 Newegg 
+ Nvidia GeForce GTX 1070 
+69.9 
+GP104 
+1506/1683MHz 
+8GB GDDR5 
+150W 
+$593.44 Amazon 
+AMD Radeon RX 590 8GB 
+60.7 
+Polaris 30 
+1469/1545MHz 
+8GB GDDR5 
+225W 
+$259.99 Amazon 
+AMD Radeon RX 580 8GB 
+57.9 
+Polaris 10 
+1257/1340MHz 
+8GB GDDR5 
+185W 
+$219.72 Amazon 
+ Nvidia GeForce GTX 1060 6GB 
+53.2 
+GP106 
+1506/1708MHz 
+6GB GDDR5 
+120W 
+$319.99 Newegg 
+ Nvidia GeForce GTX 1060 3GB 
+49.4 
+GP106 
+1506/1708MHz 
+3GB GDDR5 
+120W 
+$206.4 Newegg 
+AMD Radeon RX 570 4GB 
+48.3 
+Polaris 10 
+1168/1244MHz 
+4GB GDDR5 
+150W 
+$149.99 Newegg 
+ Nvidia GeForce GTX 1050 Ti 
+33.1 
+GP107 
+1290/1392MHz 
+4GB GDDR5 
+75W 
+$149.99 Newegg 
+AMD Radeon RX 560 
+28.6 
+Polaris 11 
+1175/1275MHz 
+4GB GDDR5 
+80W 
+$199.99 Newegg 
+ Nvidia GeForce GTX 1050 
+28.1 
+GP107 
+1354/1455MHz 
+2GB GDDR5 
+75W 
+$139.99 Newegg 
+AMD Radeon RX 550 
+17.9 
+Polaris 12 
+1100/1183MHz 
+4GB GDDR5 
+50W 
+$112.99 Amazon 
+ Nvidia GeForce GT 1030 
+13.0 
+GP108 
+1228/1468MHz 
+2GB GDDR5 
+30W 
+$89.99 Newegg

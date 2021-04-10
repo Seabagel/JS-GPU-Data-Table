@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: arial, sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td,
+        th {
+            border: 1px solid #333;
+            text-align: left;
+        }
+
+        th {
+            padding: 16px;
+            background-color: #555;
+            color: #fff
+        }
+
+        td {
+            padding: 10px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>GPUTable</h2>
+    <table>
+        <tr>
+            <th>Name </th>
+            <th>Score </th>
+            <th>GPU </th>
+            <th>Base/Boost </th>
+            <th>Memory </th>
+            <th>Power </th>
+            <th>Buy </th>
+        </tr>
+        <tr>
+            <td> Nvidia Titan RTX </td>
+            <td>100 </td>
+            <td>TU102 </td>
+            <td>1350/1770MHz </td>
+            <td>24GB GDDR6 </td>
+            <td>280W </td>
+            <td>$2,499.99 Amazon </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce RTX 2080 Ti </td>
+            <td>98.4 </td>
+            <td>TU102 </td>
+            <td>1350/1635MHz </td>
+            <td>11GB GDDR6 </td>
+            <td>260W </td>
+            <td>$1,429 Amazon </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce RTX 2080 </td>
+            <td>96.1 </td>
+            <td>TU104 </td>
+            <td>1515/1800MHz </td>
+            <td>8GB GDDR6 </td>
+            <td>225W </td>
+            <td>$799 Nvidia </td>
+        </tr>
+        <tr>
+            <td> Nvidia Titan Xp </td>
+            <td>95.7 </td>
+            <td>GP102 </td>
+            <td>1405/1480MHz </td>
+            <td>12GB GDDR5X </td>
+            <td>250W </td>
+            <td>$1200 Nvidia </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce GTX 1080 Ti </td>
+            <td>95.7 </td>
+            <td>GP102 </td>
+            <td>1480/1582MHz </td>
+            <td>11GB GDDR5X </td>
+            <td>250W </td>
+            <td>$1,490 Amazon </td>
+        </tr>
+        <tr>
+            <td>AMD Radeon VII </td>
+            <td>92.4 </td>
+            <td>Vega 20 </td>
+            <td>1400/1750MHz </td>
+            <td>16GB HBM2 </td>
+            <td>300W </td>
+            <td>$699.99 Newegg </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce RTX 2070 </td>
+            <td>87.2 </td>
+            <td>TU106 </td>
+            <td>1410/1710MHz </td>
+            <td>8GB GDDR6 </td>
+            <td>185W </td>
+            <td>$763.98 Amazon </td>
+        </tr>
+        <tr>
+            <td>AMD Radeon RX Vega 64 </td>
+            <td>84.4 </td>
+            <td>Vega 10 </td>
+            <td>1274/1546MHz </td>
+            <td>8GB HBM2 </td>
+            <td>180W </td>
+            <td>$587.53 Newegg </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce GTX 1080 </td>
+            <td>84.3 </td>
+            <td>GP104 </td>
+            <td>1607/1733MHz </td>
+            <td>8GB GDDR5X </td>
+            <td>295W </td>
+            <td>$860 Amazon </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce GTX 1070 Ti </td>
+            <td>78.5 </td>
+            <td>GP104 </td>
+            <td>1607/1683MHz </td>
+            <td>8GB GDDR5 </td>
+            <td>180W </td>
+            <td>$597.99 Amazon </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce RTX 2060 </td>
+            <td>77.5 </td>
+            <td>TU106 </td>
+            <td>1365/1680MHz </td>
+            <td>6GB GDDR6 </td>
+            <td>160W </td>
+            <td>$400.24 Newegg </td>
+        </tr>
+        <tr>
+            <td>AMD Radeon RX Vega 56 </td>
+            <td>76.7 </td>
+            <td>Vega 10 </td>
+            <td>1156/1471MHz </td>
+            <td>8GB HBM2 </td>
+            <td>210W </td>
+            <td>$558.99 Newegg </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce GTX 1070 </td>
+            <td>69.9 </td>
+            <td>GP104 </td>
+            <td>1506/1683MHz </td>
+            <td>8GB GDDR5 </td>
+            <td>150W </td>
+            <td>$593.44 Amazon </td>
+        </tr>
+        <tr>
+            <td>AMD Radeon RX 590 8GB </td>
+            <td>60.7 </td>
+            <td>Polaris 30 </td>
+            <td>1469/1545MHz </td>
+            <td>8GB GDDR5 </td>
+            <td>225W </td>
+            <td>$259.99 Amazon </td>
+        </tr>
+        <tr>
+            <td>AMD Radeon RX 580 8GB </td>
+            <td>57.9 </td>
+            <td>Polaris 10 </td>
+            <td>1257/1340MHz </td>
+            <td>8GB GDDR5 </td>
+            <td>185W </td>
+            <td>$219.72 Amazon </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce GTX 1060 6GB </td>
+            <td>53.2 </td>
+            <td>GP106 </td>
+            <td>1506/1708MHz </td>
+            <td>6GB GDDR5 </td>
+            <td>120W </td>
+            <td>$319.99 Newegg </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce GTX 1060 3GB </td>
+            <td>49.4 </td>
+            <td>GP106 </td>
+            <td>1506/1708MHz </td>
+            <td>3GB GDDR5 </td>
+            <td>120W </td>
+            <td>$206.4 Newegg </td>
+        </tr>
+        <tr>
+            <td>AMD Radeon RX 570 4GB </td>
+            <td>48.3 </td>
+            <td>Polaris 10 </td>
+            <td>1168/1244MHz </td>
+            <td>4GB GDDR5 </td>
+            <td>150W </td>
+            <td>$149.99 Newegg </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce GTX 1050 Ti </td>
+            <td>33.1 </td>
+            <td>GP107 </td>
+            <td>1290/1392MHz </td>
+            <td>4GB GDDR5 </td>
+            <td>75W </td>
+            <td>$149.99 Newegg </td>
+        </tr>
+        <tr>
+            <td>AMD Radeon RX 560 </td>
+            <td>28.6 </td>
+            <td>Polaris 11 </td>
+            <td>1175/1275MHz </td>
+            <td>4GB GDDR5 </td>
+            <td>80W </td>
+            <td>$199.99 Newegg </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce GTX 1050 </td>
+            <td>28.1 </td>
+            <td>GP107 </td>
+            <td>1354/1455MHz </td>
+            <td>2GB GDDR5 </td>
+            <td>75W </td>
+            <td>$139.99 Newegg </td>
+        </tr>
+        <tr>
+            <td>AMD Radeon RX 550 </td>
+            <td>17.9 </td>
+            <td>Polaris 12 </td>
+            <td>1100/1183MHz </td>
+            <td>4GB GDDR5 </td>
+            <td>50W </td>
+            <td>$112.99 Amazon </td>
+        </tr>
+        <tr>
+            <td> Nvidia GeForce GT 1030 </td>
+            <td>13.0 </td>
+            <td>GP108 </td>
+            <td>1228/1468MHz </td>
+            <td>2GB GDDR5 </td>
+            <td>30W </td>
+            <td>$89.99 Newegg</td>
+        </tr>
+    </table>
